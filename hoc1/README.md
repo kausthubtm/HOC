@@ -1,9 +1,7 @@
 # hoc1
 
-The first version of HOC. the features are listed below : 
-
-### Features
--  Evluates floating point numerical expressions
--  No identifiers
--  Operations avalable are + , - , * , /
--  Quite primitive and has many loopholes like division by zero and many more.
+### Features of hoc1
+-  Evaluates floating point numerical expressions
+-  Usage of variables is not permitted.
+-  Quite primative and the only operations permitted are + , - , * , /
+-  Has many loopholes like division by zero and other features like loops and conditions are not available
